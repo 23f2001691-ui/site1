@@ -4,7 +4,6 @@
   <meta charset="utf-8" />
   <title>Q{N} Quarterly Earnings – Interactive RevealJS Deck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-<p><strong> 23f2001691@ds.study.iitm.ac.in </strong></p>
   <!-- Reveal.js core & theme (via CDN) -->
   <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.6.2/dist/reveal.css" />
   <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.6.2/dist/theme/black.css" id="theme" />
@@ -32,6 +31,7 @@
   </style>
 </head>
 <body>
+<p><strong> 23f2001691@ds.study.iitm.ac.in </strong></p>
 <div class="reveal">
   <div class="slides">
 
